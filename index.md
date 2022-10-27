@@ -1,4 +1,4 @@
-![logo]([画像のURL](https://virtual-world-project.github.io/docs/logo.png))
+![logo](https://virtual-world-project.github.io/docs/logo.png)
 
 # Virtual World project
 
