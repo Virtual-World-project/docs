@@ -1,3 +1,5 @@
+![logo]([画像のURL](https://virtual-world-project.github.io/docs/logo.png))
+
 # Virtual World project
 
 このプロジェクトは日本発のオープンメタバースの構築を目指します。
